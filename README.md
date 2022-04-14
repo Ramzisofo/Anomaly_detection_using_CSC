@@ -18,4 +18,4 @@ Brendt Wohlberg. SPORCO: A Python package for standard and convolutional sparse 
 
 
 # TODO: 
-Add results, improve the structure, cleaner comments.
+Add results, cleaner comments, improve the structure.
