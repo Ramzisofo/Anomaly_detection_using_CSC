@@ -1,6 +1,6 @@
 # Anomaly detection for mixed time series using convolutional sparse coding 
 
-Implementation of the multivariate time series anomaly detection proposed in: 
+Implementation of the multivariate time series anomaly detection algorithm proposed in: 
 
 Pilastre, Barbara, et al. "Anomaly detection in mixed time-series using a convolutional sparse representation with application to spacecraft health monitoring." ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020.
 
